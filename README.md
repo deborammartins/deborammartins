@@ -6,6 +6,7 @@
 
 🏬 Atualmente, trabalho como Estagiária na Área de Engenharia de Dados na Falconi
 
+
 **Meus pilares**
 
 🌈 Diversidade e Inclusão
@@ -13,6 +14,7 @@
 🌳 Meio Ambiente
 
 ♀ Igualdade de Gênero
+
 
 **Hobbies**
 
