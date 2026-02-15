@@ -2,7 +2,7 @@
 
 **Meu nome é Débora. Seja bem-vinde ao meu Github!**
 
-- 💼 Trabalhando como **Analytics Engineer* no <a href="https://falconi.com/">Banco ABC</a>
+- 💼 Trabalhando como **Analytics Engineer** no <a href="https://falconi.com/">Banco ABC</a>
 
 
 <h3>Minhas Skills</h3>
