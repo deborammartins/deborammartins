@@ -2,8 +2,7 @@
 
 **Meu nome é Débora. Seja bem-vinde ao meu Github!**
 
-- 🎓 Estudante de Big Data e Inteligência Analítica na <a href="https://portal.anhembi.br/"> Universidade Anhembi Morumbi</a>
-- 💼 Trabalhando como **Estagiária em Engenharia de Dados** na <a href="https://falconi.com/">Falconi</a>
+- 💼 Trabalhando como **Analytics Engineer* no <a href="https://falconi.com/">Banco ABC</a>
 
 
 <h3>Minhas Skills</h3>
